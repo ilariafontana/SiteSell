@@ -4,10 +4,10 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 
 ### Table avec 4 chaises
 
-Dimension de la table : 140cm x 78cm x 74cm
-Prix : AGGIUNGERE
+- Dimension de la table : 140cm x 78cm x 74cm
+- Prix : AGGIUNGERE
 
-<img alt="Tavolo1" title="Tavolo1" src="https://ilariafontana.github.io/SiteSell/Foto/Tavolo1.jpg" width="426">  <img alt="Tavolo2" title="Tavolo2" src="https://ilariafontana.github.io/SiteSell/Foto/Tavolo2.jpg" width="240">
+<img alt="Tavolo1" title="Tavolo1" src="https://ilariafontana.github.io/SiteSell/Foto/Tavolo1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Tavolo2" title="Tavolo2" src="https://ilariafontana.github.io/SiteSell/Foto/Tavolo2.jpg" width="240">
 
 # Autres objects
 
