@@ -1,8 +1,8 @@
-Small description
+Cette page répertorie les meubles et autres articles que nous aimerions vendre en raison d'un déménagement.
 
-## Meubles
+# Meubles
 
-## Autres objects
+# Autres objects
 
 ## Welcome to GitHub Pages
 
