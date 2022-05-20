@@ -4,7 +4,7 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 
 ## Table avec 4 chaises
 
-<img alt="Preview" title="Preview" src="https://ilariafontana.github.io/SiteSell/Tavolo1.jpg" width="280">
+<img alt="Preview" title="Preview" src="https://ilariafontana.github.io/SiteSell/Foto/Tavolo1.jpg" width="280">
 
 # Autres objects
 
