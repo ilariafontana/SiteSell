@@ -1,10 +1,13 @@
-Cette page répertorie les meubles et autres articles que nous aimerions vendre en raison d'un déménagement.
+Cette page répertorie les meubles et autres articles que nous aimerions vendre en raison d'un déménagement. Pour plus d'informations vous pouvez nous contacter au numéro AGGIUNGERE ou à l'addresse email AGGIUNGERE
 
 # Meubles
 
-## Table avec 4 chaises
+### Table avec 4 chaises
 
-<img alt="Preview" title="Preview" src="https://ilariafontana.github.io/SiteSell/Foto/Tavolo1.jpg" width="280">
+Dimension de la table : 140cm x 78cm x 74cm
+Prix : AGGIUNGERE
+
+<img alt="Tavolo1" title="Tavolo1" src="https://ilariafontana.github.io/SiteSell/Foto/Tavolo1.jpg" width="426">  <img alt="Tavolo2" title="Tavolo2" src="https://ilariafontana.github.io/SiteSell/Foto/Tavolo2.jpg" width="240">
 
 # Autres objects
 
