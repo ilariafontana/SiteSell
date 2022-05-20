@@ -2,7 +2,7 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 
 # Meubles
 
-### Table avec 4 chaises
+### Table avec 4 chaises IKEA
 
 - Dimension de la table : 140cm x 78cm x 74cm
 - Prix : AGGIUNGERE
