@@ -25,6 +25,50 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 
 <img alt="Scrivania_beige1" title="Scrivania_beige1" src="https://ilariafontana.github.io/SiteSell/Foto/Scrivania_beige1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Scrivania_beige2" title="Scrivania_beige2" src="https://ilariafontana.github.io/SiteSell/Foto/Scrivania_beige2.jpg" width="240">
 
+## Meubles séjour IKEA
+
+- Description modèle structure principale à gauche et droite : BESTÅ str effet chêne blanchi + 5 tablettes de séparation BESTÅ tbl effet chêne blanchi modifiables
+- Dimension meubles à gauche et droite : 60cm x 40cm x 192cm
+- Modèle structure principale centrale : BESTÅ banc tv effet chêne blanchi + 2 porte vitré GLASSVIK pte vitr blanc/verre givré + 2 tiroirs
+- Dimension : 120cm x 40cm x 74cm
+- Prix : 40 € + 50 € + 40 € (100 € si achetés ensemble)
+
+<img alt="Mobile_no_sportelli" title="Mobile_no_sportelli" src="https://ilariafontana.github.io/SiteSell/Foto/Mobile_no_sportelli.jpg" width="181"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Mobile_TV1" title="Mobile_TV1" src="https://ilariafontana.github.io/SiteSell/Foto/Mobile_TV1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Mobile_sportelli1" title="Mobile_sportelli1" src="https://ilariafontana.github.io/SiteSell/Foto/Mobile_sportelli1.jpg" width="240">
+
+## Meubles BILLY IKEA
+
+- Description modèles : BILLY NNN bibl
+- Dimension : 80cm x 28cm x 202cm (gauche) et 40cm x 28cm x 202cm (droite)
+- Prix : 50 € (gauche) + 30 € (droite) (65 € si achetés ensemble)
+
+<img alt="Billy_grande1" title="Billy_grande1" src="https://ilariafontana.github.io/SiteSell/Foto/Billy_grande1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Billy_grande2" title="Billy_grande2" src="https://ilariafontana.github.io/SiteSell/Foto/Billy_grande2.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Billy_piccolo1" title="Billy_piccolo1" src="https://ilariafontana.github.io/SiteSell/Foto/Billy_piccolo1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Billy_piccolo3" title="Billy_piccolo3" src="https://ilariafontana.github.io/SiteSell/Foto/Billy_piccolo3.jpg" width="240"> 
+
+## Meuble cuisine IKEA
+
+- Description modèle : Meuble avec 1 tiroir et 2 portes
+- Dimension : 80cm x 70cm x 84cm
+- Prix : 50 €
+
+<img alt="Mobile_cucina1" title="Mobile_cucina1" src="https://ilariafontana.github.io/SiteSell/Foto/Mobile_cucina1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Mobile_cucina2" title="Mobile_cucina2" src="https://ilariafontana.github.io/SiteSell/Foto/Mobile_cucina2.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Mobile_cucina3" title="Mobile_cucina3" src="https://ilariafontana.github.io/SiteSell/Foto/Mobile_cucina3.jpg" width="426">
+
+## Armoire
+
+- Description modèle : 2 compartiments avec 2 portes + 5 tablette de séparation (2 fixes et 3 modifiables)
+- Dimension : 102cm x 58cm x 186cm
+- Prix : 80 €
+
+<img alt="Armadio1" title="Armadio1" src="https://ilariafontana.github.io/SiteSell/Foto/Armadio1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Armadio2" title="Armadio2" src="https://ilariafontana.github.io/SiteSell/Foto/Armadio2.jpg" width="240">
+
+# Électroménager
+
+## Télé
+
+- Modèle : LG 49UJ63
+- Dimension : 49 pouces
+- Prix : 300 €
+
+<img alt="TV1" title="TV1" src="https://ilariafontana.github.io/SiteSell/Foto/TV1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="TV2" title="TV2" src="https://ilariafontana.github.io/SiteSell/Foto/TV2.jpg" width="240">
+
 # Autres objects
 
 ## Chaise bureau noire
