@@ -33,7 +33,7 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 - Dimension 2ème meuble : 120cm x 40cm x 74cm
 - Prix : 40 € + 50 € + 40 € (100 € si achetés ensemble)
 
-<img alt="Mobile_no_sportelli" title="Mobile_no_sportelli" src="https://ilariafontana.github.io/SiteSell/Foto/Mobile_no_sportelli.jpg" width="181"> &nbsp; <img alt="Mobile_TV1" title="Mobile_TV1" src="https://ilariafontana.github.io/SiteSell/Foto/Mobile_TV1.jpg" width="426"> &nbsp; <img alt="Mobile_sportelli1" title="Mobile_sportelli1" src="https://ilariafontana.github.io/SiteSell/Foto/Mobile_sportelli1.jpg" width="240">
+<img alt="Mobile_no_sportelli" title="Mobile_no_sportelli" src="https://ilariafontana.github.io/SiteSell/Foto/Mobile_no_sportelli.jpg" width="181"> &nbsp; <img alt="Mobile_TV1" title="Mobile_TV1" src="https://ilariafontana.github.io/SiteSell/Foto/Mobile_TV1.jpg" width="300"> &nbsp; <img alt="Mobile_sportelli1" title="Mobile_sportelli1" src="https://ilariafontana.github.io/SiteSell/Foto/Mobile_sportelli1.jpg" width="240">
 
 ## Meubles BILLY IKEA
 
@@ -42,6 +42,7 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 - Prix : 50 € (gauche) + 30 € (droite) (65 € si achetés ensemble)
 
 <img alt="Billy_grande1" title="Billy_grande1" src="https://ilariafontana.github.io/SiteSell/Foto/Billy_grande1.jpg" width="240"> &nbsp;&nbsp;&nbsp; <img alt="Billy_grande2" title="Billy_grande2" src="https://ilariafontana.github.io/SiteSell/Foto/Billy_grande2.jpg" width="240"> 
+
 <img alt="Billy_piccolo1" title="Billy_piccolo1" src="https://ilariafontana.github.io/SiteSell/Foto/Billy_piccolo1.jpg" width="240"> &nbsp;&nbsp;&nbsp; <img alt="Billy_piccolo3" title="Billy_piccolo3" src="https://ilariafontana.github.io/SiteSell/Foto/Billy_piccolo3.jpg" width="240"> 
 
 ## Meuble cuisine IKEA
@@ -86,7 +87,7 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 - Dimension : 110cm x 75cm (120cm x 170cm avec structure)
 - Prix : 90 €
 
-<img alt="Lavagna5" title="Lavagna5" src="https://ilariafontana.github.io/SiteSell/Foto/Lavagna5.jpg" width="240"> &nbsp;<img alt="Lavagna3" title="Lavagna3" src="https://ilariafontana.github.io/SiteSell/Foto/Lavagna3.jpg" width="426"> &nbsp; <img alt="Lavagna1" title="Lavagna1" src="https://ilariafontana.github.io/SiteSell/Foto/Lavagna1.jpg" width="240">
+<img alt="Lavagna5" title="Lavagna5" src="https://ilariafontana.github.io/SiteSell/Foto/Lavagna5.jpg" width="240"> &nbsp;<img alt="Lavagna3" title="Lavagna3" src="https://ilariafontana.github.io/SiteSell/Foto/Lavagna3.jpg" width="300"> &nbsp; <img alt="Lavagna1" title="Lavagna1" src="https://ilariafontana.github.io/SiteSell/Foto/Lavagna1.jpg" width="240">
 
 ## Chaise bureau noire
 
@@ -110,8 +111,9 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 
 - Prix : 50 €
 
-<img alt="Attrezzi1" title="Attrezzi1" src="https://ilariafontana.github.io/SiteSell/Foto/Attrezzi1.jpg" width="426"> &nbsp; <img alt="Attrezzi2" title="Attrezzi2" src="https://ilariafontana.github.io/SiteSell/Foto/Attrezzi2.jpg" width="426"> 
-<img alt="Attrezzi4" title="Attrezzi4" src="https://ilariafontana.github.io/SiteSell/Foto/Attrezzi4.jpg" width="426"> &nbsp; <img alt="Attrezzi7" title="Attrezzi7" src="https://ilariafontana.github.io/SiteSell/Foto/Attrezzi7.jpg" width="426"> 
+<img alt="Attrezzi1" title="Attrezzi1" src="https://ilariafontana.github.io/SiteSell/Foto/Attrezzi1.jpg" width="300"> &nbsp; <img alt="Attrezzi2" title="Attrezzi2" src="https://ilariafontana.github.io/SiteSell/Foto/Attrezzi2.jpg" width="300"> 
+
+<img alt="Attrezzi4" title="Attrezzi4" src="https://ilariafontana.github.io/SiteSell/Foto/Attrezzi4.jpg" width="300"> &nbsp; <img alt="Attrezzi7" title="Attrezzi7" src="https://ilariafontana.github.io/SiteSell/Foto/Attrezzi7.jpg" width="300"> 
 
 ## Haltères
 
@@ -126,6 +128,7 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 - Prix : 15 € + 10 €
 
 <img alt="Yoga_verde1" title="Yoga_verde1" src="https://ilariafontana.github.io/SiteSell/Foto/Yoga_verde1.jpg" width="240"> &nbsp;&nbsp;&nbsp; <img alt="Yoga_verde3" title="Yoga_verde3" src="https://ilariafontana.github.io/SiteSell/Foto/Yoga_verde3.jpg" width="240"> 
+
 <img alt="Yoga_viola1" title="Yoga_viola1" src="https://ilariafontana.github.io/SiteSell/Foto/Yoga_viola1.jpg" width="240"> &nbsp;&nbsp;&nbsp; <img alt="Yoga_viola3" title="Yoga_viola3" src="https://ilariafontana.github.io/SiteSell/Foto/Yoga_viola3.jpg" width="240"> 
 
 ## Pouf
