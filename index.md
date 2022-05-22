@@ -79,6 +79,29 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 
 <img alt="Schermo1" title="Schermo1" src="https://ilariafontana.github.io/SiteSell/Foto/Schermo1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Schermo" title="Schermo" src="https://ilariafontana.github.io/SiteSell/Foto/Schermo.jpg" width="240">
 
+## Four avec plaques à induction
+
+- Description : Four avec 3 plaques à induction et alarme + plaques de cuisson pour four + grille de cuisson pour four
+- Dimension : 49cm x 63cm x 85cm
+- Prix : 200 €
+
+
+<img alt="Forno1" title="Forno1" src="https://ilariafontana.github.io/SiteSell/Foto/Forno1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Forno2" title="Forno2" src="https://ilariafontana.github.io/SiteSell/Foto/Forno2.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Forno3" title="Forno3" src="https://ilariafontana.github.io/SiteSell/Foto/Forno3.jpg" width="240">
+
+## Lave linge
+
+- Dimension : 60cm x 53cm x 85cm
+- Prix : 80 €
+
+<img alt="Lavatrice2" title="Lavatrice2" src="https://ilariafontana.github.io/SiteSell/Foto/Lavatrice2.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Lavatrice3" title="Lavatrice3" src="https://ilariafontana.github.io/SiteSell/Foto/Lavatrice3.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Lavatrice4" title="Lavatrice4" src="https://ilariafontana.github.io/SiteSell/Foto/Lavatrice4.jpg" width="240">
+
+## Réfrigérateur avec congélateur
+
+- Dimension : 54cm x 56cm x 176cm
+- Prix : 150 €
+
+<img alt="Frigo1" title="Frigo1" src="https://ilariafontana.github.io/SiteSell/Foto/Frigo1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Frigo3" title="Frigo3" src="https://ilariafontana.github.io/SiteSell/Foto/Frigo3.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Frigo2" title="Frigo2" src="https://ilariafontana.github.io/SiteSell/Foto/Frigo2.jpg" width="240">
+
 # Autres objects
 
 ## Tableau blanc
