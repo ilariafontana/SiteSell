@@ -9,6 +9,13 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 
 <img alt="Tavolo1" title="Tavolo1" src="https://ilariafontana.github.io/SiteSell/Foto/Tavolo1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Tavolo2" title="Tavolo2" src="https://ilariafontana.github.io/SiteSell/Foto/Tavolo2.jpg" width="240">
 
+### Bureau noir
+
+- Dimension : AGGIUNGERE
+- Prix : AGGIUNGERE
+
+<img alt="Scrivania_nera1" title="Scrivania_nera1" src="https://ilariafontana.github.io/SiteSell/Foto/Scrivania_nera1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Scrivania_nera2" title="Scrivania_nera2" src="https://ilariafontana.github.io/SiteSell/Foto/Scrivania_nera2.jpg" width="240">
+
 # Autres objects
 
 ## Welcome to GitHub Pages
