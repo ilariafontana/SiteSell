@@ -1,4 +1,4 @@
-Cette page répertorie les meubles et autres articles que nous aimerions vendre en raison d'un déménagement. Tous les articles sont en excellent état. Pour plus d'informations vous pouvez nous contacter au numéro AGGIUNGERE ou à l'addresse email AGGIUNGERE
+Cette page répertorie les meubles et autres articles que nous aimerions vendre en raison d'un déménagement, avec une description, le prix qu'on propose et des photos. Tous les articles sont en excellent état. Pour plus d'informations vous pouvez nous contacter au numéro AGGIUNGERE ou à l'addresse email AGGIUNGERE
 
 # Meubles
 
