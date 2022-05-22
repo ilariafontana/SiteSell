@@ -18,6 +18,8 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 
 # Autres objects
 
+### Chaise bureau
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ilariafontana/SiteSell/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
