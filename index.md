@@ -2,42 +2,44 @@ Cette page répertorie les meubles et autres articles que nous aimerions vendre 
 
 # Meubles
 
-### Table avec 4 chaises
+## Table avec 4 chaises
 
 - Dimension de la table : 140cm x 78cm x 74cm
 - Prix : 90 €
 
 <img alt="Tavolo1" title="Tavolo1" src="https://ilariafontana.github.io/SiteSell/Foto/Tavolo1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Tavolo2" title="Tavolo2" src="https://ilariafontana.github.io/SiteSell/Foto/Tavolo2.jpg" width="240">
 
-### Bureau noir
+## Bureau noir
 
-- Dimension : AGGIUNGERE
+- Dimension : 122cm x 55cm x 74cm
 - Prix : 30 €
 
 <img alt="Scrivania_nera1" title="Scrivania_nera1" src="https://ilariafontana.github.io/SiteSell/Foto/Scrivania_nera1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Scrivania_nera2" title="Scrivania_nera2" src="https://ilariafontana.github.io/SiteSell/Foto/Scrivania_nera2.jpg" width="240">
 
-### Bureau beige
+## Bureau beige
 
-- Dimension : AGGIUNGERE
+- Dimension côté long (sans partie à angle) : 99cm x 49cm
+- Dimension côté court (sans partie à angle) : 64cm x 49cm
+- Hauteur : 75 cm
 - Prix : 30 €
 
 <img alt="Scrivania_beige1" title="Scrivania_beige1" src="https://ilariafontana.github.io/SiteSell/Foto/Scrivania_beige1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Scrivania_beige2" title="Scrivania_beige2" src="https://ilariafontana.github.io/SiteSell/Foto/Scrivania_beige2.jpg" width="240">
 
 # Autres objects
 
-### Chaise bureau noire
+## Chaise bureau noire
 
 - Prix : 40 €
 
 <img alt="Sedia_nera1" title="Sedia_nera1" src="https://ilariafontana.github.io/SiteSell/Foto/Sedia_nera1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Sedia_nera2" title="Sedia_nera2" src="https://ilariafontana.github.io/SiteSell/Foto/Sedia_nera2.jpg" width="240">
 
-### Chaise bureau grise
+## Chaise bureau grise
 
 - Prix : 35 €
 
 <img alt="Sedia_grigia1" title="Sedia_grigia1" src="https://ilariafontana.github.io/SiteSell/Foto/Sedia_grigia1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Sedia_grigia2" title="Sedia_grigia2" src="https://ilariafontana.github.io/SiteSell/Foto/Sedia_grigia2.jpg" width="240">
 
-### Chaise sans dossier
+## Chaise sans dossier
 
 - Prix : 15 €
 
